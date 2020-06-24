@@ -1,4 +1,6 @@
 # jadukor
+## Let's make the world better together.
+### Don't repeat yourselfe.
 [![Documentation Status](https://readthedocs.org/projects/jadukor/badge/?version=latest)](https://jadukor.readthedocs.io/en/latest/?badge=latest)
 
 Important links for users:
