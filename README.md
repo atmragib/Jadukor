@@ -2,7 +2,7 @@
 ## Let's make the world better together.
 ### Don't repeat yourselfe.
 [![Documentation Status](https://readthedocs.org/projects/jadukor/badge/?version=latest)](https://jadukor.readthedocs.io/en/latest/?badge=latest)
-![Test Build](https://github.com/atmragib/jadukor/workflows/Publish%20Python%20%F0%9F%90%8D%20distributions%20%F0%9F%93%A6%20to%20PyPI%20and%20TestPyPI/badge.svg)
+![Build](https://github.com/atmragib/jadukor/workflows/Build/badge.svg)
 
 Important links for users:
 * [Read official Documentation](https://jadukor.readthedocs.io/en/latest/)
