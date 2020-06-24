@@ -5,7 +5,7 @@ with open("DOC.md", "r") as fh:
     long_description = fh.read()
 
 base_url = 'http://github.com/atmragib/jadukor'
-version = '0.0.6'
+version = '0.0.7'
 
 setup(name='jadukor',
       version=version,
