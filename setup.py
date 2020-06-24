@@ -1,11 +1,11 @@
 from distutils.core import setup
 from setuptools import setup
 
-with open("README.md", "r") as fh:
+with open("DOC.md", "r") as fh:
     long_description = fh.read()
 
 base_url = 'http://github.com/atmragib/jadukor'
-version = '0.0.4'
+version = '0.0.5'
 
 setup(name='jadukor',
       version=version,
