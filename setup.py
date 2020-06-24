@@ -2,10 +2,10 @@ from distutils.core import setup
 from setuptools import setup
 
 setup(name='jadukor',
-      version='0.1',
+      version='0.2',
       description='The most powerfull module in the universe',
       url='http://github.com/atmragib/jadukor',
-      download_url='https://github.com/atmragib/jadukor/archive/v_01.tar.gz',
+      download_url='https://github.com/atmragib/jadukor/archive/v0.2.tar.gz',
       author='A T M Ragib Raihan',
       author_email='atmragibraihan@gmail.com',
       license='MIT',
